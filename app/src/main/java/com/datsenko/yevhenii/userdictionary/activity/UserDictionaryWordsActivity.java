@@ -40,6 +40,5 @@ public class UserDictionaryWordsActivity extends AppCompatActivity {
                 LAYOUT_ITEMS_TO_FILL,
                 0);
         mListView.setAdapter(simpleCursorAdapter);
-        
     }
 }
